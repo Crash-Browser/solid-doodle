@@ -1,4 +1,9 @@
+<<<<<< ayatweb-patch-1
+  version: 2
+
+=======
 version: 2
+>>>>>> develop
 updates:
   - package-ecosystem: 'github-actions'
     directory: '/'
